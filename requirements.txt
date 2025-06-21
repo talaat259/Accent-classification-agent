@@ -2,7 +2,7 @@ streamlit
 torch
 torchaudio
 librosa
-sentencepiece --prefer-binary
+sentencepiece==0.1.99 --prefer-binary
 transformers
 moviepy
 soundfile
