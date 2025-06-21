@@ -1,0 +1,8 @@
+streamlit
+transformers
+requests
+torch
+librosa
+os
+soundfile
+yt-dlp
