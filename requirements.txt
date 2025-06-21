@@ -2,6 +2,8 @@ streamlit
 torch
 torchaudio
 librosa
+streamlit
+sentencepiece==0.1.99
 sentencepiece==0.1.99 --prefer-binary
 transformers
 moviepy
