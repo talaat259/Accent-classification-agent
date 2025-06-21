@@ -4,7 +4,7 @@ librosa
 torch
 transformers
 requests
-moviepy
+moviepy==1.0.3
 sentencepiece
 torchaudio
 speechbrain
