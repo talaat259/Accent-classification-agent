@@ -5,6 +5,7 @@ torch
 transformers
 requests
 moviepy
+sentencepiece
 torchaudio
 speechbrain
 wheel
