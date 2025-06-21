@@ -81,7 +81,7 @@ def download_audio(url, output_dir="downloaded_url_videos"):
     command = f'yt-dlp -x --audio-format wav "{url}" -o "{output_path}"'
     subprocess.run(command, shell=True)
     return output_path
-url = "https://youtube.com/shorts/pv0kvjXObfg?si=brXaI54-9ksJoS55" 
+#url = "https://youtube.com/shorts/pv0kvjXObfg?si=brXaI54-9ksJoS55" 
 #url_sound=download_audio(url)
 #agent=Agent_classifier()
 #results_o = agent.predict_whole(url_sound)
