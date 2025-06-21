@@ -9,7 +9,8 @@ from transformers import AutoModelForAudioClassification, AutoProcessor
 import requests
 from transformers import AutoFeatureExtractor
 
-from moviepy.editor import VideoFileClip
+#from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 import torchaudio
 from speechbrain.pretrained.interfaces import foreign_class
 import os
