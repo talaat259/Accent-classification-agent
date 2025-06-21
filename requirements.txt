@@ -7,5 +7,4 @@ requests
 moviepy
 torchaudio
 speechbrain
-sentencepiece==0.1.99
 wheel
