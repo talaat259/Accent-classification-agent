@@ -1,10 +1,10 @@
 streamlit
-torch
-torchaudio
-librosa
-sentencepiece==0.1.99 --prefer-binary
-transformers
-moviepy
 soundfile
-speechbrain==0.5.15
-yt-dlp
+librosa
+torch
+transformers
+requests
+moviepy
+torchaudio
+speechbrain
+sentencepiece==0.1.99
