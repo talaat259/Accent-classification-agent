@@ -1,8 +1,9 @@
 streamlit
-transformers
-requests
 torch
+torchaudio
 librosa
-os
 soundfile
+transformers
+speechbrain==0.5.15
+moviepy
 yt-dlp
