@@ -1,6 +1,4 @@
-!pip install speechbrain==0.5.15
-!pip install -U yt-dlp
-!pip install streamlit
+
 import librosa
 import torch
 
